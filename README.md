@@ -5,6 +5,8 @@ Students will practice applying and combining class selectors with guidance. Thi
 
 ## ToDo list ✅
 
+💡 **Reminder:** If you get stuck or need help troubleshooting, don't hesitate to ask your AI assistant for help. 💡
+
 1. [ ] **Task 1:** Open `index.html` and `styles.css` in your code editor.
 2. [ ] **Task 2:** Review the existing HTML and CSS code.
 3. [ ] **Task 3:** Define a class selector for the address section in `styles.css`:
@@ -44,3 +46,5 @@ Students will practice applying and combining class selectors with guidance. Thi
 8. [ ] **Task 8:** Save your changes and refresh the browser to see the combined styles.
 9. [ ] **Task 9:** Discuss how combining multiple classes enhances the flexibility and modularity of your CSS.
 10. [ ] **Task 10:** Troubleshoot and demonstrate using GitHub Copilot for suggestions and corrections.
+
+🌟 **Congratulations! You have successfully completed the exercise.** 🌟
