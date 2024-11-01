@@ -1,6 +1,4 @@
 /* Example of basic styles for the demo */
-
-/*
 .main-title {
     color: #333;
     text-align: center;
@@ -13,12 +11,13 @@
     padding-bottom: 5px;
 }
 
+
 .intro-text {
     font-size: 1.2em;
     color: #666;
     text-align: center;
 }
-
+/*
 .contact-info {
     color: darkslategray;
     font-style: italic;
